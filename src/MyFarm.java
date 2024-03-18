@@ -1,3 +1,13 @@
+/**  
+    * @author Henry Botz
+    * @version 1.0
+    * ITEC 2150 Spring 2024
+    * March 17, 2024
+    * MyFarm.java - Getting the name of farm animals and their feeding schedule and sounds they make.
+    */
+
+
+
 import java.util.ArrayList;
 
 abstract class FarmAnimal {
