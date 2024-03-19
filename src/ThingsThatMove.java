@@ -1,3 +1,13 @@
+/**  
+    * @author Henry Botz
+    * @version 1.0
+    * ITEC 2150 Spring 2024
+    * March 17, 2024
+    * ThingsThatMove.java - Same outline as ThingsThatFly.java but the "Airplane" and "Bird" classes implement the "Movement" interface. Stores objects from ThingsThatFly.java in an array list.
+    */
+
+
+
 interface Flight {
     void fly();
 }
