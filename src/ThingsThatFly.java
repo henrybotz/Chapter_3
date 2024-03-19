@@ -1,3 +1,13 @@
+/**  
+    * @author Henry Botz
+    * @version 1.0
+    * ITEC 2150 Spring 2024
+    * March 17, 2024
+    * ThingsThatFly.java - Processes different objects that can fly through the interface they implement.
+    */
+
+
+
 interface Flight {
     void fly();
 }
